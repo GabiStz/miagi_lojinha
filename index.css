@@ -1,0 +1,37 @@
+body {
+    font: normal 15px Arial;
+
+}
+
+#anuncio {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+
+
+}
+
+.ITENS_LOJA {
+    display: flex;
+    border: 2px solid blueviolet;
+    border-radius: 10px;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 18%;
+    margin: 3px;
+
+
+}
+
+.imagens {
+    display: flex;
+    width: 10%;
+
+}
+
+.alinhamento_textos {
+    text-align: center;
+
+}
